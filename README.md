@@ -2,7 +2,7 @@
 
 TON Improvement Proposals (TIPs) describe standards for the TON platform, including core protocol specifications, client APIs, and contract standards.
 
-**Before you initiate a pull request**, please read the TIP-1 process document. Ideas should be thoroughly discussed prior to opening a pull request, such as on the TON Magicians forums or in a GitHub issue in this repository.
+**Before you initiate a pull request**, please read the [TIP-1](https://github.com/Open-FreeTON/TIPs/blob/master/TIPs/tip-1.md) process document. Ideas should be thoroughly discussed prior to opening a pull request, such as on the TON Magicians forums or in a GitHub issue in this repository.
 
 This repository tracks the ongoing status of TIPs. It contains:
 
